@@ -1,0 +1,22 @@
+.wrapper {
+  color: white;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background: #000;
+
+  justify-content: center;
+  .content-container {
+    display: flex;
+  }
+  .title {
+    font-size: 2rem;
+  }
+}
+.icon-container {
+  width: 40px;
+  height: 40px;
+  svg {
+    display: block;
+  }
+}

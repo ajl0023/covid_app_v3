@@ -1,0 +1,23 @@
+html,
+body,
+.App,
+#root {
+  height: 100%;
+  width: 100%;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  outline: none;
+}
+.App {
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+  position: relative;
+}
+.tooltip-wrapper {
+  position: absolute;
+}
