@@ -1,1 +1,1 @@
-
+git add . && git commit -m "updated netlify.toml" && git push origin main

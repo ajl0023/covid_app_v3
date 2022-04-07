@@ -37,8 +37,7 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject",
-    "git": "git add . && git commit -m updated netlify.toml && git push origin main"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
